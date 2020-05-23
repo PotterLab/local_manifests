@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<manifest>
+<project name="PotterLab/ancient_device_motorola_potter" path="device/motorola/potter" remote="github" revision="ten" />
+<project name="PotterLab/vendor_motorola_potter" path="vendor/motorola/potter" remote="github" revision="arrow-10.0" />
+<project name="LineageOS/android_system_qcom" path="system/qcom" remote="github" revision="lineage-17.1" />
+<project name="ArrowOS-Devices/packages_resources_MotoActions" path="packages/resources/MotoActions" remote="github" revision="arrow-10.0" />
+<project name="PixelExperience-Devices/kernel_motorola_potter" path="kernel/motorola/potter" remote="github" revision="ten" />
+		</manifest>
